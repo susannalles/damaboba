@@ -20,7 +20,7 @@
 
 title:            'La dama boba'
 description:      'Minimal Exhibitions with Jekyll'
-url:              'https://celioht.github.io/damaboba'
+url:              'https://celioht.github.io'
 baseurl:          '/damaboba'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
