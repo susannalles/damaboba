@@ -14,4 +14,5 @@ layout: damaboba_item
 collection: damaboba
 thumbnail: "/img/derivatives/iiif/images/docu018/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/docu018/manifest.json"
+full: "/img/derivatives/iiif/images/docu018/full/1140,/0/default.jpg"
 ---
