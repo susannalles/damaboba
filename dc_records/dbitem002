@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title>La dama boba</dc:title>
+<dc:creator>Vega Carpio, Lope de</dc:creator>
+<dc:creator>Valdés, Pedro de [autor de comedias]</dc:creator>
+<dc:creator>Burgos, Jerónima de [actriz: Nise]</dc:creator>
+<dc:description>Puestas en escena por la compañía de Pedro de Pedro de Valdés y Jerónima de Burgos.</dc:description>
+<dc:type>Representación teatral</dc:type>
+<dc:source>http://bdh.bne.es/bnesearch/detalle/bdh0000051826</dc:source>
+<dc:language>Español</dc:language>
+<dc:relation>Representación basada en el manuscrito autógrafo</dc:relation>
+<dcterms:isBasedOn>dbitem001</dcterms:isBasedOn>
+<dcterms:temporal>1613-1616</dcterms:temporal>
+
+</metadata>
