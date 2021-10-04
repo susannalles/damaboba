@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>La dama boba [podcast]</dc:title>
+<dc:creator>Afuera, Ángeles [documentalista]</dc:creator>
+<dc:creator>Martínez Concejo, Ana [documentalista]</dc:creator>
+<dc:creator>Higueras, Carlos [editor]</dc:creator>
+<dc:description>Podcast que recupera la emisión de <i>La dama boba</i> de programa <i>Teatros del aire</i> de Radio Madrid.
+Temporada 2, capítulo 5.
+Colabora la directora de la Compañía Nacional de Teatro Clásico que estrenó la comedia en 2002.
+</dc:description>
+<dc:publisher>Podium Podcast</dc:publisher>
+<dc:contributor>Pimenta, Helena</dc:contributor>
+<dc:date>2017-05-19</dc:date>
+<dc:type>Podcast</dc:type>
+<dc:format>MP3</dc:format>
+<dc:source>https://www.podiumpodcast.com/teatros-del-aire/temporada-2/la-dama-boba/</dc:source>
+<dc:language>Español</dc:language>
+<dcterms:conformsTo>dbitem200401</dcterms:conformsTo>
+<dc:rights>Copyrigth PRISA, todos los derechos reservados.</dc:rights>
+<dcterms:rightsholder>Grupo PRISA</dcterms:rightsholder>
+
+</metadata>
