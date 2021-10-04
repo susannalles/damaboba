@@ -12,7 +12,8 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:source>http://bdh.bne.es/bnesearch/detalle/bdh0000051826</dc:source>
 <dc:language>Español</dc:language>
 <dc:relation>Representación basada en el manuscrito autógrafo</dc:relation>
-<dcterms:isBasedOn>dbitem001</dcterms:isBasedOn>
+<dcterms:isBasedOn>dbitem170101</dcterms:isBasedOn>
 <dcterms:temporal>1613-1616</dcterms:temporal>
+<dcterms:spatial>Segovia?, Madrid, Lisboa</dcterms:spatial>
 
 </metadata>
