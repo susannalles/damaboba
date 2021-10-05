@@ -6,16 +6,16 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:title>La dama boba [editio princeps]</dc:title>
 <dc:creator>Vega Carpio, Lope de</dc:creator>
 <dc:description>Edición príncipe de la comedia. Parece proceder de una copia ilegal.
-300 h.; 4º</dc:description>
-<dc:publisher>En Madrid: por la viuda de Alonso Martín de Balboa</dc:publisher>
-<dc:publisher>Biblioteca Nacional de España</dc:publisher>
+300 h.; 4º; ff. 256r-275v</dc:description>
+<dc:publisher>En Madrid: por la viuda de Alonso Martin de Balboa</dc:publisher>
+<dc:publisher>Biblioteca Digital Hispánica</dc:publisher>
 <dc:contributor>Pérez, Alonso [editor]</dc:contributor>
 <dc:contributor>Viuda de Alonso Martín de Balboa [impresora]</dc:contributor>
 <dc:date>1617</dc:date>
 <dc:type>Impreso</dc:type>
 <dc:source>http://bdh.bne.es/bnesearch/detalle/bdh0000014188</dc:source>
 <dc:language>Español</dc:language>
-<dc:relation>Procede de un ejemplar cercano al manuscrito de Remíerez de Arellano</dc:relation>
+<dc:relation>Procede de un ejemplar cercano al manuscrito de Remírez de Arellano</dc:relation>
 <dcterms:isPartOf>dbitem170103</dcterms:isPartOf>
 <dcterms:conformsTo>dbitem170102</dcterms:conformsTo>
 <dc:rights>http://creativecommons.org/licenses/b

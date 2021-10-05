@@ -1,20 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
 
 <metadata>
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:title>Doze comedias de Lope de Vega: sacadas de sus originales por el mismo [...]: nouena parte</dc:title>
 <dc:creator>Vega Carpio, Lope de</dc:creator>
-<dc:description>Edición príncipe de la <i>Parte novena</i> de comedias de Lope de Vega en la que se incluye <i>La dama boba</i>.
+<dc:description>Edición barcelonesa de la <i>Parte novena</i> de comedias de Lope de Vega en la que se incluye <i>La dama boba</i>.
 300 h.; 4º</dc:description>
-<dc:publisher>En Madrid: por la viuda de Alonso Martin de Balboa</dc:publisher>
+<dc:publisher>En Barcelona: por Sebastian de Comellas y à su costa</dc:publisher>
 <dc:publisher>Biblioteca Digital Hispánica</dc:publisher>
-<dc:contributor>Pérez, Alonso [editor]</dc:contributor>
-<dc:contributor>Viuda de Alonso Martín de Balboa [impresora]</dc:contributor>
-<dc:date>1617</dc:date>
+<dc:contributor>Comellas, Sebastián de [impresor]</dc:contributor>
+<dc:date>1618</dc:date>
 <dc:type>Impreso</dc:type>
-<dc:source>http://bdh.bne.es/bnesearch/detalle/bdh0000014188</dc:source>
+<dc:source>http://bdh.bne.es/bnesearch/detalle/bdh0000088428</dc:source>
 <dc:language>Español</dc:language>
+<dcterms:isBasedOn>dbitem170103</dcterms:isBasedOn>
 <dc:rights>http://creativecommons.org/licenses/by-nc-sa/4.0/</dc:rights>
 <dc:rightsholder>Biblioteca Nacional de España</dc:provenance>
 
