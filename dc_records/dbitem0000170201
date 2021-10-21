@@ -9,7 +9,7 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:creator>Burgos, Jerónima de [actriz: Nise]</dc:creator>
 <dc:description>Puestas en escena por la compañía de Pedro de Pedro de Valdés y Jerónima de Burgos.</dc:description>
 <dc:type>Representación teatral</dc:type>
-<dc:source>http://bdh.bne.es/bnesearch/detalle/bdh0000051826</dc:source>
+<dc:source><a href="https://catcom.uv.es/consulta/browserecord.php?id=191">Base de datos CATCOM</a></dc:source>
 <dc:language>Español</dc:language>
 <dc:relation>Representación basada en el manuscrito autógrafo</dc:relation>
 <dcterms:isBasedOn>dbitem170101</dcterms:isBasedOn>

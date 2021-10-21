@@ -10,14 +10,13 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:publisher>En Barcelona: por Sebastian de Comellas y à su costa</dc:publisher>
 <dc:publisher>Biblioteca Digital Hispánica</dc:publisher>
 <dc:contributor>Comellas, Sebastián de [impresor]</dc:contributor>
-<dc:date>1618</dc:date>
+<dcterms:created>1618</dcterms:creatdi>
 <dc:type>Impreso</dc:type>
-<dc:source>http://bdh.bne.es/bnesearch/detalle/bdh0000088428</dc:source>
+<dc:source><a href="http://bdh.bne.es/bnesearch/detalle/bdh0000088428">http://bdh.bne.es/bnesearch/detalle/bdh0000088428</a></dc:source>
 <dc:language>Español</dc:language>
 <dcterms:isPartOf>dbitem170105</dcterms:isPartOf>
 <dcterms:isBasedOn>dbitem170104</dcterms:isBasedOn>
-<dc:rights>http://creativecommons.org/licenses/b
-  y-nc-sa/4.0/</dc:rights>
-<dc:rightsholder>Biblioteca Nacional de España</dc:provenance>
+<dc:rights><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">http://creativecommons.org/licenses/by-nc-sa/4.0/</a></dc:rights>
+<dcterms:rightsHolder>Biblioteca Nacional de España</dcterms:rightsHolder>
 
 </metadata>

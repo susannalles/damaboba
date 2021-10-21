@@ -12,12 +12,12 @@ Parece ser una copia ilegal extraída de las represantaciones teatrales de la co
 67 h.; 23 x 17 cm
 Encuadernación holandesa</dc:description>
 <dc:publisher>Biblioteca Digital Hispánica</dc:publisher>
-<dc:date>XVII</dc:date>
+<dcterms:created>XVII</dcterms:created>
 <dc:type>Manuscrito</dc:type>
-<dc:source>http://bdh.bne.es/bnesearch/detalle/bdh0000050958</dc:source>
+<dc:source><a href="http://bdh.bne.es/bnesearch/detalle/bdh0000050958">http://bdh.bne.es/bnesearch/detalle/bdh0000050958</a></dc:source>
 <dc:language>Español</dc:language>
-<dc:rights>http://creativecommons.org/licenses/by-nc-sa/4.0/</dc:rights>
-<dc:provenance>Perteneció a la biblioteca de Agustín Durán</dc:provenance>
-<dc:rightsholder>Biblioteca Nacional de España</dc:provenance>
+<dc:rights><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">http://creativecommons.org/licenses/by-nc-sa/4.0/</a></dc:rights>
+<dcterms:provenance>Perteneció a la biblioteca de Agustín Durán</dcterms:provenance>
+<dcterms:rightsHolder>Biblioteca Nacional de España</dcterms:rightsHolder>
 
 </metadata>

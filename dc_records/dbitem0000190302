@@ -7,7 +7,7 @@ xmlns:dcterms="http://purl.org/dc/terms/">
 <dc:title>María guerrero como Clara en <i>La niña boba</i></dc:title>
 <dc:creator>García Peris, Antonio</dc:creator>
 <dc:description>Fotografía de la actriz María Guerrero como Clara, el personaje protagonista de la refundición titulada como <i>La niña boba</i>.</dc:description>
-<dc:date>ca. 1897</dc:date>
+<dcterms:created>ca. 1897</dcterms:created>
 <dc:type>Fotografía</dc:type>
 <dcterms:conformsTo>dbitem190301</dcterms:conformsTo>
 

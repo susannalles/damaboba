@@ -11,13 +11,13 @@ Contiene reparto actoral y licencias de representación.
 120 p.; 22 x 16 cm.
 Encuadernación moderna en pasta con hierros dorados y secos, firmada Grimaud.</dc:description>
 <dc:publisher>Biblioteca Digital Hispánica</dc:publisher>
-<dc:date>1613</dc:date>
+<dcterms:created>1613</dcterms:created>
 <dc:type>Manuscrito</dc:type>
-<dc:source>http://bdh.bne.es/bnesearch/detalle/bdh0000051826</dc:source>
+<dc:source><a href="http://bdh.bne.es/bnesearch/detalle/bdh0000051826">http://bdh.bne.es/bnesearch/detalle/bdh0000051826</a></dc:source>
 <dc:language>Español</dc:language>
-<dc:rights>http://creativecommons.org/licenses/by-nc-sa/4.0/</dc:rights>
-<dc:provenance>Fue un regalo del autor a Jerónima de Burgos</dc:provenance>
-<dc:provenance>Perteneció a la biblioteca del duque de Osuna</dc:provenance>
-<dc:rightsholder>Biblioteca Nacional de España</dc:provenance>
+<dc:rights><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">http://creativecommons.org/licenses/by-nc-sa/4.0/</a></dc:rights>
+<dcterms:provenance>Fue un regalo del autor a Jerónima de Burgos</dcterms:provenance>
+<dcterms:provenance>Perteneció a la biblioteca del duque de Osuna</dcterms:provenance>
+<dcterms:rightsHolder>Biblioteca Nacional de España</dcterms:rightsHolder>
 
 </metadata>
