@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Función de entrega de premios del Real Conservatorio de Música y Declamación</dc:title>
+<dc:creator>Vega Carpio, Lope de</dc:creator>
+<dc:creator>Solís, Dionisio [refundidor]</dc:creator>
+<dc:creator>Berrobianco, Carmen [actriz : Clara]</dc:creator>
+<dc:creator>Boldún, Pilar [actriz : Inés]</dc:creator>
+<dc:creator>Boldún, Elisa [actriz : Blasa]</dc:creator>
+<dc:description>Función y entrega de premios del Real Conservatorio de Música y Declamación, donde se interpretó La niña boba. Primer premio para Carmen Berrobianco</dc:description>
+<dc:type>Representación teatral</dc:type>
+<dc:identifier>dbitem0000190213</dc:identifier>
+<dc:source><a href="https://www.boe.es/datos/pdfs/BOE//1859/018/A00004-00004.pdf">Gaceta de Madrid, 1859-01-18. p. 4</a></dc:source>
+<dc:language>Español</dc:language>
+<dc:relation>Representación de la refundición de Dionisio Solís</dc:relation>
+<dcterms:isBasedOn>dbitem0000190103</dcterms:isBasedOn>
+<dcterms:temporal>1859-01-18</dcterms:temporal>
+<dcterms:spatial>Madrid: Real Conservatorio de Música y Declamación</dcterms:spatial>
+
+</metadata>

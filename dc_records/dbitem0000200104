@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>La dama boba</dc:title>
+<dc:creator>Vega Carpio, Lope de</dc:creator>
+<dc:creator>Aguilar, Enrique [refundidor]</dc:creator>
+<dc:creator>Palma, Enriqueta [refundidora]</dc:creator>
+<dc:description>Refundición de <i>La dama boba</i> hecha por Enrique Aguilar, pseudónimo de Enriqueta Palma para las puestas en escena de la Compañía Palma-Reig.
+3 v. ; 20 cm</dc:description>
+<dc:type>Mecanoscrito</dc:type>
+<dc:identifier>dbitem0000200104</dc:identifier>
+<dc:source><a href="https://abnopac.march.es/abnopac/abnetcl.exe?TITN=123673">https://abnopac.march.es/abnopac/abnetcl.exe?TITN=123673</a></dc:source>
+<dc:language>Español</dc:language>
+<dc:relation>Por los repartos de personaje anunciados en prensa parece proceder de la tradición solisiana</dc:relation>
+<dcterms:conformsTo>dbitem0000190103</dcterms:conformsTo>
+<dcterms:rightsholder>Fundación Juan March</dcterms:rightsholder>
+
+</metadata>

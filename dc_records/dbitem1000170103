@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<metadata>
+<metadata
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xmlns:dc="http://purl.org/dc/elements/1.1/">
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
 <dc:title>Doze comedias de Lope de Vega: sacadas de sus originales por el mismo [...]: nouena parte</dc:title>
 <dc:creator>Vega Carpio, Lope de</dc:creator>
 <dc:description>Edición príncipe de la <i>Parte novena</i> de comedias de Lope de Vega en la que se incluye <i>La dama boba</i>.
@@ -13,9 +14,10 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:contributor>Viuda de Alonso Martín de Balboa [impresora]</dc:contributor>
 <dcterms:created>1617</dcterms:created>
 <dc:type>Impreso</dc:type>
+<dc:identifier>dbitem1000170103</dc:identifier>
 <dc:source><a href="http://bdh.bne.es/bnesearch/detalle/bdh0000014188">http://bdh.bne.es/bnesearch/detalle/bdh0000014188</a></dc:source>
 <dc:language>Español</dc:language>
 <dc:rights><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">http://creativecommons.org/licenses/by-nc-sa/4.0/</a></dc:rights>
-<dcterms:rightsHolder>Biblioteca Nacional de España</dcterms:rightsHolder>
+<dcterms:rightsholder>Biblioteca Nacional de España</dcterms:rightsholder>
 
 </metadata>

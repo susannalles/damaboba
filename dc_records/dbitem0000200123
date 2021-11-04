@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>La dama boba</dc:title>
+<dc:creator>Vega Carpio, Lope de</dc:creator>
+<dc:creator>Moor, Carlos [refundidor]</dc:creator>
+<dc:creator>Calvo Agosti, Ricardo [editor]</dc:creator>
+<dc:description>Adaptación de <i>La dama boba</i> que según las fuentes fue realizada por Rafaela Abadía y Diego San José, siendo llevada a escena por la actriz.
+En 4º; 111 p.
+No se sabe nada de la procedencia del texto, pero pudiera ser una refunción del texto de Diego San José y Rafaela Abadía</dc:description>
+<dcterms:created>1913</dcterms:created>
+<dc:type>Manuscrito</dc:type>
+<dc:identifier>dbitem0000200123</dc:identifier>
+<dc:source><a href="https://www.boe.es/datos/pdfs/BOE//1913/185/A00036-00036.pdf">Gaceta de Madrid, 04-07-1913. 36</a></dc:source>
+<dc:language>Español</dc:language>
+
+</metadata>

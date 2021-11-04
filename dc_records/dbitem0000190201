@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <metadata
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xmlns:dc="http://purl.org/dc/elements/1.1/">
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
 <dc:title>Buen maestro es amor o la niña tonta</dc:title>
 <dc:creator>Vega Carpio, Lope de</dc:creator>
 <dc:creator>Solís, Dionisio [refundidor]</dc:creator>
@@ -10,6 +11,7 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:creator>Baus, Teresa [actriz]</dc:creator>
 <dc:description>Estreno y primeras actuaciones de la refundición de Dionisio Solís</dc:description>
 <dc:type>Representación teatral</dc:type>
+<dc:identifier>dbitem0000190201</dc:identifier>
 <dc:source><a href="http://hemerotecadigital.bne.es/issue.vm?id=0002762109&search=&lang=es">Diario de avisos de Madrid, 1827-01-21. p. 4</a></dc:source>
 <dc:language>Español</dc:language>
 <dc:relation>Representación de la refundición de Dionisio Solís</dc:relation>

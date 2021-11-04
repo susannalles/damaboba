@@ -2,17 +2,19 @@
 
 <metadata
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xmlns:dc="http://purl.org/dc/elements/1.1/">
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
 <dc:title>La dama boba</dc:title>
 <dc:creator>Vega Carpio, Lope de</dc:creator>
 <dc:creator>Valdés, Pedro de [autor de comedias]</dc:creator>
 <dc:creator>Burgos, Jerónima de [actriz: Nise]</dc:creator>
 <dc:description>Puestas en escena por la compañía de Pedro de Pedro de Valdés y Jerónima de Burgos.</dc:description>
 <dc:type>Representación teatral</dc:type>
+<dc:identifier>dbitem0000170201</dc:identifier>
 <dc:source><a href="https://catcom.uv.es/consulta/browserecord.php?id=191">Base de datos CATCOM</a></dc:source>
 <dc:language>Español</dc:language>
-<dc:relation>Representación basada en el manuscrito autógrafo</dc:relation>
-<dcterms:isBasedOn>dbitem170101</dcterms:isBasedOn>
+<dc:relation>Representaciones basadas en el manuscrito autógrafo</dc:relation>
+<dcterms:isBasedOn>dbitem1000170101</dcterms:isBasedOn>
 <dcterms:temporal>1613-1616</dcterms:temporal>
 <dcterms:spatial>Segovia?, Madrid, Lisboa</dcterms:spatial>
 

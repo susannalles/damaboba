@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Teatro</dc:title>
+<dc:creator>Vega Carpio, Lope de</dc:creator>
+<dc:description>Colección "Biblioteca Calleja". Primera serie.
+Tomo I.  Peribáñez y el comendador de Ocaña; La estrella de Sevilla; El castigo sin venganza; La dama boba.
+Prólogo de Alfonso Reyes.
+En 8º, 360 p.</dc:description>
+<dc:publisher>Madrid: Saturnino Calleja</dc:publisher>
+<dc:publisher>University of Toronto - Robarts Library</dc:publisher>
+<dcterms:created>1919</dcterms:created>
+<dc:type>Impreso</dc:type>
+<dc:identifier>dbitem110200107</dc:identifier>
+<dc:source>https://archive.org/details/teatrove01vega/mode/2up</dc:source>
+<dc:language>Español</dc:language>
+<dcterms:isBasedOn>dbitem1000190102</dcterms:isBasedOn>
+<dc:rights><a href="https://creativecommons.org/publicdomain/zero/1.0/">https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+<dcterms:rightsholder>University of Toronto - Robarts Library</dcterms:rightsholder>
+
+</metadata>

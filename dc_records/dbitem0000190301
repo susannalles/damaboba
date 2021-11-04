@@ -6,9 +6,10 @@ xmlns:dc="http://purl.org/dc/elements/1.1/"
 xmlns:dcterms="http://purl.org/dc/terms/">
 <dc:title>María guerrero como Clara en <i>La niña boba</i></dc:title>
 <dc:creator>García Peris, Antonio</dc:creator>
-<dc:description>Fotografía de la actriz María Guerrero como Clara, el personaje protagonista de la refundición titulada como <i>La niña boba</i>.</dc:description>
+<dc:description>Fotografía de la actriz María Guerrero como Clara, el personaje protagonista de la refundición titulada como <i>La niña boba</i>. Antonio García Peris era suegro del pintor valenciano Joaquín Sorolla.</dc:description>
 <dcterms:created>ca. 1897</dcterms:created>
 <dc:type>Fotografía</dc:type>
-<dcterms:conformsTo>dbitem190301</dcterms:conformsTo>
+<dc:identifier>dbitem0000190301</dc:identifier>
+<dcterms:conformsTo>dbitem0000190501</dcterms:conformsTo>
 
 </metadata>

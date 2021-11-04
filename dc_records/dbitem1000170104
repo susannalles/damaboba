@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<metadata>
+<metadata
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xmlns:dc="http://purl.org/dc/elements/1.1/">
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
 <dc:title>La dama boba [editio princeps]</dc:title>
 <dc:creator>Vega Carpio, Lope de</dc:creator>
-<dc:description>Edición príncipe de la comedia. Parece proceder de una copia ilegal.
+<dc:description>Edición príncipe de la comedia. Parece derivar de una copia ilegal.
 300 h.; 4º; ff. 256r-275v</dc:description>
 <dc:publisher>En Madrid: por la viuda de Alonso Martin de Balboa</dc:publisher>
 <dc:publisher>Biblioteca Digital Hispánica</dc:publisher>
@@ -13,12 +14,13 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:contributor>Viuda de Alonso Martín de Balboa [impresora]</dc:contributor>
 <dcterms:created>1617</dcterms:created>
 <dc:type>Impreso</dc:type>
+<dc:identifier>dbitem1000170104</dc:identifier>
 <dc:source><a href="http://bdh.bne.es/bnesearch/detalle/bdh0000014188">http://bdh.bne.es/bnesearch/detalle/bdh0000014188</a></dc:source>
 <dc:language>Español</dc:language>
 <dc:relation>Procede de un ejemplar cercano al manuscrito de Remírez de Arellano</dc:relation>
-<dcterms:isPartOf>dbitem170103</dcterms:isPartOf>
-<dcterms:conformsTo>dbitem170102</dcterms:conformsTo>
+<dcterms:isPartOf>dbitem1000170103</dcterms:isPartOf>
+<dcterms:conformsTo>dbitem1000170102</dcterms:conformsTo>
 <dc:rights><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">http://creativecommons.org/licenses/by-nc-sa/4.0/</a></dc:rights>
-<dcterms:rightsHolder>Biblioteca Nacional de España</dcterms:rightsHolder>
+<dcterms:rightsholder>Biblioteca Nacional de España</dcterms:rightsholder>
 
 </metadata>

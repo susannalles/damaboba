@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Buen maestro es amor ó la niña tonta</dc:title>
+<dc:creator>Vega Carpio, Lope de</dc:creator>
+<dc:creator>Solís, Dionisio [refundidor]</dc:creator>
+<dc:creator>Fernández-Guerra, José [copista]</dc:creator>
+<dc:description>Manuscrito autógrafo de José Fernández Guerra.
+Contiene lecturas de otros manuscritos de la obra.
+En port.: "Refda. por Jose Frnz-Guerra"
+23 h.</dc:description>
+<dc:publisher>Col·lecció digital Biblioescènic del MAE</dc:publisher>
+<dcterms:created>s. XIX</dcterms:created>
+<dc:type>Manuscrito</dc:type>
+<dc:identifier>dbitem5000190107</dc:identifier>
+<dc:source><a href="https://cataleg.cdmae.cat/cgi-bin/koha/opac-detail.pl?biblionumber=40847">https://cataleg.cdmae.cat/cgi-bin/koha/opac-detail.pl?biblionumber=40847</a></dc:source>
+<dc:language>Español</dc:language>
+<dcterms:isBasedOn>dbitem0000190103</dcterms:isBasedOn>
+<dc:rights><a href="http://creativecommons.org/licenses/by-nc/2.5/">http://creativecommons.org/licenses/by-nc/2.5/</a></dc:rights>
+<dcterms:provenance>Procedente de la colección Fernández-Guerra</dcterms:provenance>
+<dcterms:provenance>Perteneció a la colección del empresario Artur Sedó</dcterms:provenance>
+<dcterms:rightsholder>Biblioteca de l'Institut del Teatre</dcterms:rightsholder>
+
+</metadata>

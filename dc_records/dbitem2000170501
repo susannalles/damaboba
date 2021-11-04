@@ -11,11 +11,12 @@ xmlns:dcterms="http://purl.org/dc/terms/">
 <dc:publisher>Museo Nacional del Prado</dc:publisher>
 <dcterms:created>ca. 1665</dcterms:created>
 <dc:type>Óleo sobre lienzo</dc:type>
+<dc:identifier>dbitem2000170501</dc:identifier>
 <dc:source><a href="https://www.museodelprado.es/coleccion/obra-de-arte/la-infanta-doa-margarita-de-austria/88462bf7-a4f2-4238-901e-8541105293d5">https://www.museodelprado.es/coleccion/obra-de-arte/la-infanta-doa-margarita-de-austria/88462bf7-a4f2-4238-901e-8541105293d5</a></dc:source>
 <dc:rights>Copyright Museo del Prado,  todos los derechos reservados.</dc:rights>
 <dcterms:provenance>Colección Real (Palacio Real Nuevo, Madrid, tercera pieza de la Furriera, 1747, nº 159</dcterms:provenance>
 <dcterms:provenance>Palacio Real Nuevo, Madrid, paso del cuarto del señor infante don Luis, 1772, nº 159</dcterms:provenance>
 <dcterms:provenance>Palacio Real Nuevo, Madrid, cuarto del príncipe-cámara, 1794, nº 159</dcterms:provenance>
-<dcterms:rightsHolder>Museo Nacional del Prado</dcterms:rightsHolder>
+<dcterms:rightsholder>Museo Nacional del Prado</dcterms:rightsholder>
 
 </metadata>

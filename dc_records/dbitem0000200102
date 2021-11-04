@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>La dama boba</dc:title>
+<dc:creator>Vega Carpio, Lope de</dc:creator>
+<dc:creator>Díaz de Mendoza y Aguado, Fernando [refundidor]</dc:creator>
+<dc:description>Refundición de La dama boba hecha por Fernando Díaz de Mendoza para las puestas en escena de la Compañía Dramática Guerrero-Díaz de Mendoza
+Tres cuad. en 4.° [44] p. ; [40] p. ; [41] p.</dc:description>
+<dc:type>Manuscrito</dc:type>
+<dc:identifier>dbitem0000200102</dc:identifier>
+<dc:source><a href="https://www.boe.es/datos/pdfs/BOE//1906/251/A00987-00988.pdf">Gaceta de Madrid, 08-09-1906</a></dc:source>
+<dc:language>Español</dc:language>
+<dc:relation>Por los repartos de personaje anunciados en prensa parece proceder de la tradición solisiana</dc:relation>
+<dcterms:conformsTo>dbitem0000190103</dcterms:conformsTo>
+
+</metadata>

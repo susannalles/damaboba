@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>La dama boba [Manuscrito]</dc:title>
+<dc:creator>Vega Carpio, Lope de</dc:creator>
+<dc:description>Manuscrito apógrafo preservado en la Biblioteca Palatina de Parma.</dc:description>
+<dcterms:created>XVII-XVIII</dcterms:created>
+<dc:type>Manuscrito</dc:type>
+<dc:language>Español</dc:language>
+<dcterms:isCopyOf>dbitem1000170104</dcterms:isCopyOf>
+<dcterms:provenance>Procede de la biblioteca traída desde España de los duques de Parma Felipe I o Fernando I de Borbón, hijo y nieto del rey Felipe V</dcterms:provenance>
+<dcterms:rightsholder>Biblioteca Palatina de Parma</dcterms:rightsholder>
+
+</metadata>

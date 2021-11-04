@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>La dama boba [poema]</dc:title>
+<dc:creator>San José, Diego</dc:creator>
+<dc:description>Poema dedicado a la comedia homónima, leído por Rafaela Abadía en el Ateneo de Madrid.</dc:description>
+<dc:publisher>Hemeroteca Digital BNE</dc:publisher>
+<dc:contributor>Abadía, Rafaela [intérprete]</dc:contributor>
+<dcterms:created>1912</dcterms:created>
+<dc:type>Poema</dc:type>
+<dc:identifier>dbitem1000200501</dc:identifier>
+<dc:source><a href="http://hemerotecadigital.bne.es/issue.vm?id=0029677509&page=8">La noche, 02-01-1912. 8</a></dc:source>
+<dc:language>Español</dc:language>
+<dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+<dcterms:rightsholder>Biblioteca Nacional de España</dcterms:rightsholder>
+
+</metadata>

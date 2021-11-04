@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Función con motivo del Congreso Interanacional de Higiene y Democracia</dc:title>
+<dc:creator>Vega Carpio, Lope de</dc:creator>
+<dc:creator>Guerrero Torija, María [actriz: Clara]</dc:creator>
+<dc:description>Puesta en escena interpretada por María Guerrero como protagonista celebrada en el teatro Español a la que se celebró como acto del Congreso Internacional de Higiene y Democracia.</dc:description>
+<dc:type>Representación teatral</dc:type>
+<dc:identifier>dbitem0000190239</dc:identifier>
+<dc:language>Español</dc:language>
+<dc:relation>Representación de tradición solisiana</dc:relation>
+<dcterms:conformsTo>dbitem0000190103</dcterms:conformsTo>
+<dcterms:temporal>1898-04-10</dcterms:temporal>
+<dcterms:spatial>Madrid: Teatro Español</dcterms:spatial>
+
+</metadata>

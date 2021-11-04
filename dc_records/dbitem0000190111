@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>La Petite niase</dc:title>
+<dc:creator>Vega Carpio, Lope de</dc:creator>
+<dc:creator>Rochel, Clément [traductor]</dc:creator>
+<dc:description>Traducción al francés de La dama boba incluida en el primer tomo de <i>Les Chefs-d'oeuvre du Théatre Espagnol ancien et moderne</i>.</dc:description>
+<dc:publisher>París : Garnier frères</dc:publisher>
+<dcterms:created>1900</dcterms:created>
+<dc:type>Impreso</dc:type>
+<dc:identifier>dbitem0000190111</dc:identifier>
+<dc:source><a href="http://ark.bnf.fr/ark:/12148/cb39774293m">http://ark.bnf.fr/ark:/12148/cb39774293m</a></dc:source>
+<dc:language>Francés</dc:language>
+<dcterms:isVersionOf>dbitem1000190102</dcterms:isVersionOf>
+
+</metadata>

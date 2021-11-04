@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>La boba discreta [Zaragoza]</dc:title>
+<dc:creator>Vega Carpio, Lope de</dc:creator>
+<dc:description>Versión zaragozana de la edición suelta editada entre la Lonja de Comedias de la Puerta del Sol de Madrid y la Imprenta de la Plaza del Carbón en Zaragoza.
+36 p.; 4º.
+Texto a dos columnas.
+Precede al título: "Num. 16".</dc:description>
+<dc:publisher>En Zaragoza: en la Imprenta que està en la Plaza del Carbón sobre el Peso Real...</dc:publisher>
+<dc:publisher>Biblioteca Digital memoriademadrid</dc:publisher>
+<dc:contributor>Teresa de Guzmán [editora]</dc:contributor>
+<dcterms:created>1737</dcterms:created>
+<dc:type>Impreso</dc:type>
+<dc:identifier>dbitem3000180102</dc:identifier>
+<dc:source><a href="http://catalogos.munimadrid.es/cgi-bin/historica?TITN=378876">http://catalogos.munimadrid.es/cgi-bin/historica?TITN=378876</a></dc:source>
+<dc:language>Español</dc:language>
+<dcterms:isVersionOf>dbitem1000180103</dcterms:isVersionOf>
+<dcterms:isBasedOn>dbitem1000170104</dcterms:isBasedOn>
+<dc:rights><a href="https://creativecommons.org/licenses/by-nc/2.5/es/">https://creativecommons.org/licenses/by-nc/2.5/es/</a></dc:rights>
+<dcterms:rightsholder>Biblioteca Histórica de Madrid</dcterms:rightsholder>
+
+</metadata>

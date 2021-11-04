@@ -2,7 +2,8 @@
 
 <metadata
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xmlns:dc="http://purl.org/dc/elements/1.1/">
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
 <dc:title>La dama boba [autógrafo]</dc:title>
 <dc:creator>Vega Carpio, Lope de</dc:creator>
 <dc:description>Manuscrito autógrafo con firma del autor.
@@ -11,13 +12,16 @@ Contiene reparto actoral y licencias de representación.
 120 p.; 22 x 16 cm.
 Encuadernación moderna en pasta con hierros dorados y secos, firmada Grimaud.</dc:description>
 <dc:publisher>Biblioteca Digital Hispánica</dc:publisher>
+<dc:contributor>Gracián Dantisco, Tomás [censor]</dc:contributor>
+<dc:contributor>Panlifeo [censor]</dc:contributor>
 <dcterms:created>1613</dcterms:created>
 <dc:type>Manuscrito</dc:type>
+<dc:identifier>dbitem1000170101</dc:identifier>
 <dc:source><a href="http://bdh.bne.es/bnesearch/detalle/bdh0000051826">http://bdh.bne.es/bnesearch/detalle/bdh0000051826</a></dc:source>
 <dc:language>Español</dc:language>
 <dc:rights><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">http://creativecommons.org/licenses/by-nc-sa/4.0/</a></dc:rights>
 <dcterms:provenance>Fue un regalo del autor a Jerónima de Burgos</dcterms:provenance>
 <dcterms:provenance>Perteneció a la biblioteca del duque de Osuna</dcterms:provenance>
-<dcterms:rightsHolder>Biblioteca Nacional de España</dcterms:rightsHolder>
+<dcterms:rightsholder>Biblioteca Nacional de España</dcterms:rightsholder>
 
 </metadata>

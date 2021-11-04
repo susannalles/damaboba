@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Función de salón por la duquesa de Híjar</dc:title>
+<dc:creator>Vega Carpio, Lope de</dc:creator>
+<dc:creator>Fernández de Córdova, Luisa [actriz: Clara]</dc:creator>
+<dc:description>Puestas en escena de salón interpretada por la duqesa de Híjar, Luisa Fernández de Córdova, como protagonista.
+Total de representaciones: 3.</dc:description>
+<dc:type>Representación teatral</dc:type>
+<dc:identifier>dbitem0000190227</dc:identifier>
+<dc:language>Español</dc:language>
+<dc:relation>Representaciones de tradición solisiana</dc:relation>
+<dcterms:conformsTo>dbitem0000190103</dcterms:conformsTo>
+<dcterms:temporal>1876-01-17 , 1876-03-11 y 1877-03-10</dcterms:temporal>
+<dcterms:spatial>Madrid</dcterms:spatial>
+
+</metadata>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <metadata
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xmlns:dc="http://purl.org/dc/elements/1.1/">
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
 <dc:title>Buen maestro es amor o la niña boba, por Matilde Díez</dc:title>
 <dc:creator>Vega Carpio, Lope de</dc:creator>
 <dc:creator>Solís, Dionisio [refundidor]</dc:creator>
@@ -10,9 +11,11 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:description>Periodo de producciones teatrales protagonizadas por Matilde Díez según documentación.
 Total de representaciones: 72 aprox.</dc:description>
 <dc:type>Representación teatral</dc:type>
+<dc:identifier>dbitem0000190202</dc:identifier>
 <dc:language>Español</dc:language>
-<dc:relation>Representaciones de la refundición de Dionisio Solís</dc:relation>
+<dc:relation>Representaciones de la refundición de Dionisio Solís. Uno de los manuscritos de la Biblioteca Histórica incluye el reparto de de representaciones en 1850</dc:relation>
 <dcterms:isBasedOn>dbitem0000190103</dcterms:isBasedOn>
+<dcterms:isBasedOn>dbitem3000190104</dcterms:isBasedOn>
 <dcterms:temporal>De 1835 a 1870</dcterms:temporal>
 <dcterms:spatial>Madrid, Barcelona, Sevilla, La Habana, Ciudad de México [...]</dcterms:spatial>
 

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>La dama boba [Orellana]</dc:title>
+<dc:creator>Vega Carpio, Lope</dc:creator>
+<dc:creator>Orellana, Francisco José [editor]</dc:creator>
+<dc:creator>Salvador Manero Bayarri [impresor]</dc:creator>
+<dc:description>Testimonio de Orellana de <i>La dama boba</i> contenido en el tomo I de <i>Teatro selecto, antiguo y moderno, nacional y extranjero</i>. Primera edición.
+28 cms.; pp.759-786</dc:description>
+<dc:publisher>Barcelona: Salvador Manero</dc:publisher>
+<dc:publisher>Biblioteca Digital Hispánica</dc:publisher>
+<dcterms:created>1866</dcterms:created>
+<dc:type>Impreso</dc:type>
+<dc:identifier>dbitem1000190109</dc:identifier>
+<dc:source><a href="http://bdh.bne.es/bnesearch/detalle/bdh0000089190">http://bdh.bne.es/bnesearch/detalle/bdh0000089190</a></dc:source>
+<dc:language>Español</dc:language>
+<dc:relation>El testimonio copia prácticamente el de Hartzenbusch, pero incuyen unos cambios puntuales que son anotados a pie de página</dc:relation>
+<dcterms:isBasedOn>dbitem1000190102</dcterms:isBasedOn>
+<dcterms:isPartOf>dbitem1000190108</dcterms:isPartOf>
+<dc:rights><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">http://creativecommons.org/licenses/by-nc-sa/4.0/</a></dc:rights>
+<dcterms:rightsholder>Biblioteca Nacional de España</dcterms:rightsholder>
+
+</metadata>

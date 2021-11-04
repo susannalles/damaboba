@@ -2,22 +2,27 @@
 
 <metadata
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xmlns:dc="http://purl.org/dc/elements/1.1/">
-<dc:title>Buen maestro es amor o la niña boba</dc:title>
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Buen maestro es amor ó La niña boba</dc:title>
 <dc:creator>Vega Carpio, Lope de</dc:creator>
 <dc:creator>Solís, Dionisio [refundidor]</dc:creator>
 <dc:description>Copia manuscrita de la refundición de Dionisio Solís.
 Apunte de teatro manuscrito. "1º Apte"
 En verso port., relación de personajes y reparto de actores del año 1850.
 Se incluye a lapiz un reparto posterior de ca. 1878 indicando los intérpretes que participan en cada escena.
+Esta compusto por tres libretos, cada uno de una mano diferente.
 [32] h.; [27] h.; [33] h.
 21 x 15 cms.</dc:description>
-<dc:publisher>Biblioteca Digital Memoria de Madrid</dc:publisher>
-<dcterms:created>s. XIX</dcterms:created>
+<dc:publisher>Biblioteca Digital Memoriademadrid</dc:publisher>
+<dcterms:created>1847</dcterms:created>
 <dc:type>Manuscrito</dc:type>
-<dc:source><a href="http://bdh.bne.es/bnesearch/detalle/bdh0000051826">http://bdh.bne.es/bnesearch/detalle/bdh0000051826</a></dc:source>
+<dc:identifier>dbitem3000190104</dc:identifier>
+<dc:source><a href="http://catalogos.munimadrid.es/cgi-bin/historica?TITN=344852">http://catalogos.munimadrid.es/cgi-bin/historica?TITN=344852</a></dc:source>
 <dc:language>Español</dc:language>
-<dc:rights><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">http://creativecommons.org/licenses/by-nc-sa/4.0/</a></dc:rights>
-<dcterms:provenance>Fue un regalo del autor a Jerónima de Burgos</dcterms:provenance>
-<dcterms:provenance>Perteneció a la biblioteca del duque de Osuna</dcterms:provenance>
-<dcterms:rightsHolder>Biblioteca Nacional de España</dcterms:rightsHolder>
+<dcterms:isBasedOn>dbitem0000190103</dcterms:isBasedOn>
+<dc:rights><a href="http://creativecommons.org/licenses/by-nc/2.5/">http://creativecommons.org/licenses/by-nc/2.5/</a></dc:rights>
+<dcterms:provenance>Procede de los fondos del teatro Español</dcterms:provenance>
+<dcterms:provenance>Proviene del Archivo de Comedias de los teatros de la Cruz y del Príncipe</dcterms:provenance>
+<dcterms:provenance>Trasladado al Archivo de la Villa en 1898</dcterms:provenance>
+<dcterms:rightsholder>Biblioteca Histórica de Madrid</dcterms:rightsholder>

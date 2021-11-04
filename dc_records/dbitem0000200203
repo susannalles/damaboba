@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Producción: Compañía Dramática Cobeña-Oliver [primera] [s. XX]</dc:title>
+<dc:creator>Vega Carpio, Lope de</dc:creator>
+<dc:creator>Cobeña, Carmen [actriz: Clara]</dc:creator>
+<dc:description>Puestas en escena bajo el título <a>Buen maestro es amor o la boba discreta</a>, principalmente, por las compañías de Carmen Cobeña.
+Procedente de la tradición de Dionisio Solís.
+Total de representaciones: 45.</dc:description>
+<dc:type>Representación teatral</dc:type>
+<dc:identifier>dbitem0000200203</dc:identifier>
+<dc:language>Español</dc:language>
+<dcterms:isBasedOn>dbitem0000200103</dcterms:isBasedOn>
+<dcterms:temporal>De 1902 a 1915</dcterms:temporal>
+<dcterms:spatial>A Coruña, Algeciras, Alicante, Almería, Barcelona, Cartagena, Córdoba, Ferrol, Granada, Huelva, Jerez de la Frontera, Madrid, Málaga, Melilla, Murcia, Palma de Mallorca, Rosario de Santa Fe, Sabadell, Santa curz de Tnerife, Santander, Sevilla, Valencia, Vitoria, Zaragoza</dcterms:spatial>
+
+</metadata>
